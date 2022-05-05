@@ -1,0 +1,6 @@
+﻿																					   Записки с команди и т.н 
+																					защото помня като златна рибка
+
+
+
+1.Update-Database -Context ToDoDbContext //Пишеш това в Package Manager Console ако Task бутона не работи.
